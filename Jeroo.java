@@ -12,6 +12,10 @@ public class Jeroo extends JerooBase {
     }
     
     public void lineOne() {
+  hop();
+  turn(RIGHT);
+  hop();
+  turn(LEFT);
   plant();
  hop();
   hop();
