@@ -5,6 +5,12 @@
 public class Jeroo extends JerooBase {
 
     // Put your own methods here    
+    public void setupBowling(){
+       lineOne();
+        lineTwo();
+        lineLast(); 
+    }
+    
     public void lineOne() {
   plant();
  hop();
