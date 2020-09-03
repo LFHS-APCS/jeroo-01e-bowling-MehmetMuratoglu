@@ -5,6 +5,47 @@
 public class Jeroo extends JerooBase {
 
     // Put your own methods here    
+    public class lineOne() {
+  plant();
+ hop();
+  hop();
+  plant();
+  hop();
+  hop();
+  plant();
+  hop();
+  hop();
+  plant();
+  turn(RIGHT);
+  hop();
+  turn(RIGHT);
+  hop();
+}
+public class lineTwo() {
+  plant();
+  hop();
+  hop();
+  plant();
+  hop();
+  hop();
+  plant();
+  turn(LEFT);
+  hop();
+  turn(LEFT);
+  hop();
+}
+public class lineLast() {
+  plant();
+  hop();
+  hop();
+  plant();
+  turn(RIGHT);
+  hop();
+  turn(RIGHT);
+  hop();
+  plant();
+  hop();
+}
     
     
 
