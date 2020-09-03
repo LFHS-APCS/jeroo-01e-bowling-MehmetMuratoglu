@@ -5,7 +5,7 @@
 public class Jeroo extends JerooBase {
 
     // Put your own methods here    
-    public class lineOne() {
+    public void lineOne() {
   plant();
  hop();
   hop();
@@ -21,7 +21,7 @@ public class Jeroo extends JerooBase {
   turn(RIGHT);
   hop();
 }
-public class lineTwo() {
+public void lineTwo() {
   plant();
   hop();
   hop();
@@ -34,7 +34,7 @@ public class lineTwo() {
   turn(LEFT);
   hop();
 }
-public class lineLast() {
+public void lineLast() {
   plant();
   hop();
   hop();
